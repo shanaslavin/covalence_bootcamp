@@ -1,0 +1,27 @@
+
+html * {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.boxes{
+  color: blue;
+  text-align: center;
+  
+}
+
+#box1{
+  color: green;
+  background-color: lightgray;
+}
+
+#box2{
+  color: purple;
+}
+
+#box3{
+  color: red;
+}
+
+#box4{
+  color: peru;
+}
